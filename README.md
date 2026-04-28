@@ -196,3 +196,6 @@ streamlit       ≥ 1.35   — web interface
 rich            ≥ 13.0   — console output
 groq       ≥ 0.40   — AI warning messages
 ```
+
+## Video Link (Google Drive)
+https://drive.google.com/file/d/11Q4dQT2xSoTbkeJSTNr532FUivAZvfwj/view?usp=sharing
