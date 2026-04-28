@@ -31,7 +31,7 @@ attendance_system/
 ├── core/
 │   ├── models.py             # StudentRecord dataclass + business logic
 │   ├── ingestion.py          # File parsing, column resolution, validation
-│   └── ai_warnings.py        # Claude AI warning message generator
+│   └── ai_warnings.py        # Groq AI warning message generator
 │
 ├── exporters/
 │   ├── excel_exporter.py     # .xlsx report (openpyxl)
