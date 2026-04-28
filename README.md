@@ -14,7 +14,7 @@ A production-quality Python tool for processing student attendance data, generat
 | **Excel Export** | Multi-sheet, colour-coded, professional `.xlsx` report |
 | **PDF Export** | Paginated, landscape A4 PDF with KPI summary and full data table |
 | **Console Report** | Rich, colour-coded terminal output |
-| **AI Warnings** | Personalised formal warning messages via Claude AI API |
+| **AI Warnings** | Personalised formal warning messages via Groq AI API |
 | **Web UI** | Streamlit app with upload, filtering, charts, and download buttons |
 | **CLI** | Full `argparse`-based CLI for headless / scripted usage |
 
