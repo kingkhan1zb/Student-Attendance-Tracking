@@ -57,7 +57,7 @@ pip install -r requirements.txt
 ### 2. Set your API key (for AI warnings)
 
 ```bash
-export ANTHROPIC_API_KEY="your_api_key_here"
+export Groq_Api="your_api_key_here"
 ```
 
 ### 3a. Run the Web App (Streamlit)
@@ -194,5 +194,5 @@ xlrd            ≥ 2.0    — legacy .xls support
 reportlab       ≥ 4.0    — PDF generation
 streamlit       ≥ 1.35   — web interface
 rich            ≥ 13.0   — console output
-anthropic       ≥ 0.40   — AI warning messages
+groq       ≥ 0.40   — AI warning messages
 ```
